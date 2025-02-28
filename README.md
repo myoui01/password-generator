@@ -1,5 +1,9 @@
 # PasswordGenerator
 
+
+![MacBook Air - 1](https://github.com/user-attachments/assets/d194e4d3-7f88-4b56-8e86-ab238dbac6b5)
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
 ## Development server
